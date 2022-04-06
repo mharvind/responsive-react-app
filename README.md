@@ -73,3 +73,5 @@ Clicking on "Go Back" will take us to the first page.
 <img src="https://github.com/mharvind/responsive-react-app/blob/master/images/MobileBreakpoint-2.png" width="600"/>
 
 <img src="https://github.com/mharvind/responsive-react-app/blob/master/images/MobileBreakpoint-3.png" width="600"/>
+
+<img src="https://github.com/mharvind/responsive-react-app/blob/master/images/MobileBreakpoint-4.png" width="600"/>
