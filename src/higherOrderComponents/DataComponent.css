@@ -1,0 +1,8 @@
+.header-message {
+  opacity: 0;
+}
+
+.animate-header-message {
+  opacity: 1;
+  transition: all 1s ease;
+}
