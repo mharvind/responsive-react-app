@@ -20,9 +20,9 @@ State Management handled using Redux.
 
 <img src="https://github.com/mharvind/responsive-react-app/blob/master/images/FirstScreen.png" width="600"/>
 
-We can select the country from the country selection box. Depending on the country selected the values in the State selection box gets updated.
+We can select the country from the "Country" selection box. Depending on the country selected the values in the "State" selection box gets updated.
 
-By default the Table view will be selected. Once we select the country and state the table data will be displayed.
+By default the Table view will be selected. Once we select the country and state, the table data will be displayed.
 
 <img src="https://github.com/mharvind/responsive-react-app/blob/master/images/TableData.png" width="600"/>
 
@@ -36,15 +36,15 @@ We can click on the legend to select/unselect the data from the chart view.
 
 Page-2
 
-When we click on the edit icon on the table we get navigated to the second page.
+When we click on the edit icon on the table, we will be navigated to the second page.
 
 <img src="https://github.com/mharvind/responsive-react-app/blob/master/images/SecondScreen.png" width="600"/>
 
-We can update the data and click save which shows confirmation message on success transaction.
+We can update the data and click save which shows confirmation message on successful transaction.
 
 <img src="https://github.com/mharvind/responsive-react-app/blob/master/images/onSave.png" width="600"/>
 
-If we click cancel, we get a confirmation popup.
+If we click cancel, we will get a confirmation popup.
 
 <img src="https://github.com/mharvind/responsive-react-app/blob/master/images/AlertPopup.png" width="600"/>
 
